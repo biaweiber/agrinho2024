@@ -1,6 +1,6 @@
 /* Estilos globais */
 body {
-  font-family: Arial, sans-serif;
+  
   line-height: 1.6;
   background-color: #f9f9f9; /* Cor de fundo do corpo */
   color: #333333; /* Cor do texto principal */
@@ -18,7 +18,7 @@ body {
 
 header {
   background-color: #333333; /* Cor de fundo do cabeçalho */
-  color: #ffffff; /* Cor do texto do cabeçalho */
+  color: #f5b6b6; /* Cor do texto do cabeçalho */
   padding: 20px 0;
   text-align: center;
   border-top-left-radius: 8px; /* Cantos arredondados superiores */
@@ -48,5 +48,5 @@ section h2 {
 
 section p {
   font-size: 1.1em;
-  color: #555555; /* Cor do texto principal das seções */
+  color: #dc3131; /* Cor do texto principal das seções */
 }
