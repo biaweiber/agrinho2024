@@ -2,8 +2,8 @@
 body {
   
   line-height: 1.6;
-  background-color: #f9f9f9; /* Cor de fundo do corpo */
-  color: #333333; /* Cor do texto principal */
+  background-color: #ce7c7c; /* Cor de fundo do corpo */
+  color: #ed6767; /* Cor do texto principal */
   margin: 0;
 }
 
@@ -11,13 +11,13 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #ffffff; /* Cor de fundo dos contêineres */
-  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Sombra suave */
+  background-color: #c6ff4d; /* Cor de fundo dos contêineres */
+  box-shadow: 0 0 10px rgba(179, 245, 87, 0.1); /* Sombra suave */
   border-radius: 8px; /* Cantos arredondados */
 }
 
 header {
-  background-color: #333333; /* Cor de fundo do cabeçalho */
+  background-color: #eb930e; /* Cor de fundo do cabeçalho */
   color: #f5b6b6; /* Cor do texto do cabeçalho */
   padding: 20px 0;
   text-align: center;
