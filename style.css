@@ -11,14 +11,14 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #c6ff4d; /* Cor de fundo dos contêineres */
+  background-color: #8fc77b; /* Cor de fundo dos contêineres */
   box-shadow: 0 0 10px rgba(179, 245, 87, 0.1); /* Sombra suave */
   border-radius: 8px; /* Cantos arredondados */
 }
 
 header {
   background-color: #411818; /* Cor de fundo do cabeçalho */
-  color: #f5b6b6; /* Cor do texto do cabeçalho */
+  color: #c7a57b; /* Cor do texto do cabeçalho */
   padding: 20px 0;
   text-align: center;
   border-top-left-radius: 8px; /* Cantos arredondados superiores */
