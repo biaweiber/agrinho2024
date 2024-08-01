@@ -2,8 +2,8 @@
 body {
   
   line-height: 1.6;
-  background-color: #; /* Cor de fundo do corpo */
-  color: #ed6767; /* Cor do texto principal */
+  background-color: rgb(21, 255, 0); /* Cor de fundo do corpo */
+  color: #91ed67; /* Cor do texto principal */
   margin: 0;
 }
 
