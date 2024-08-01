@@ -3,7 +3,7 @@ body {
   
   line-height: 1.6;
   background-color: rgb(214, 255, 210); /* Cor de fundo do corpo */
-  color: #91ed67; /* Cor do texto principal */
+  color: #66ce37; /* Cor do texto principal */
   margin: 0;
 }
 
@@ -45,5 +45,5 @@ section h2 {
 
 section p {
   font-size: 1.1em;
-  color: #b5fa8e; /* Cor do texto principal das seções */
+  color: #adfa81; /* Cor do texto principal das seções */
 }
