@@ -2,7 +2,7 @@
 body {
   
   line-height: 1.6;
-  background-color: rgb(21, 255, 0); /* Cor de fundo do corpo */
+  background-color: rgb(214, 255, 210); /* Cor de fundo do corpo */
   color: #91ed67; /* Cor do texto principal */
   margin: 0;
 }
@@ -39,7 +39,7 @@ section {
 
 section h2 {
   font-size: 2em;
-  color: #333333; /* Cor do título das seções */
+  color: #1a331a; /* Cor do título das seções */
   margin-bottom: 10px;
 }
 
