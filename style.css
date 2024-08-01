@@ -2,7 +2,7 @@
 body {
   
   line-height: 1.6;
-  background-color: rgb(164, 248, 157); /* Cor de fundo do corpo */
+  background-color: rgb(239, 245, 238); /* Cor de fundo do corpo */
   color: #307a0d; /* Cor do texto principal */
 
 }
@@ -17,7 +17,7 @@ body {
 
 header {
   background-color: #1f4118; /* Cor de fundo do cabeçalho */
-  color: #f3fdf2; /* Cor do texto do cabeçalho */
+  color: #6feb64; /* Cor do texto do cabeçalho */
   padding: 20px 0;
   text-align: center;
 }
